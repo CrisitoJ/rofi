@@ -1,0 +1,9 @@
+* {
+  al:      #00000000;
+  bg:      #0e0d11;
+  fg:      #aeadbf;
+  myred:   #c25551;
+	ac:		 #00000000;
+	cyan: #c251bd;
+	green: #51c278;
+}
